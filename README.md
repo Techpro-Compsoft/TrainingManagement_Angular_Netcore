@@ -1,0 +1,2 @@
+# TrainingManagement_Angular_Netcore
+TrainingManagement_Angular_Netcore
